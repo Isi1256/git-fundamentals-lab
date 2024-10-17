@@ -1,0 +1,11 @@
+{
+	"name": "Alpine",
+	"image": "mcr.microsoft.com/devcontainers/base:alpine-3.18",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ritwickdey.LiveServer"
+			]
+		}
+	}
+}
